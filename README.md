@@ -51,3 +51,4 @@ No requiere instalación ni build step.
 Este README documenta la versión corregida del componente: se solucionaron errores en el enlace del CDN de Boxicons, un atributo `class` mal escrito, una propiedad CSS inválida (`text-replace`) y un typo en `padding-bottom`, además de asignarse un ícono distinto a cada sección del menú.
 
 ## Pagina
+https://barra-lateral-sencilla-y-adaptativa.vercel.app/
